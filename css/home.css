@@ -15,8 +15,8 @@ body{
 
 .logo{
     padding-left: 25px;
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     text-align: center;
    
 }
@@ -73,7 +73,7 @@ top: -48px;
 
 
 .navbar a:hover {
-  background-color: #3399ff;
+  background-color: #132b4d;
     color: white;
 }
 
@@ -141,4 +141,44 @@ top: -48px;
     float: none;
     display: block;
   }
+}
+
+/*--------------Footer---------------*/
+footer{
+    background-color: #132b4d;
+}
+.futer{
+    width: 100%;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+.mapa-sitio{
+    padding-left: 150px;
+}
+.contacto{
+    float: left;
+    width: 50%;
+    padding-left: 150px;
+    color: white;
+}
+.redes{
+    color: white;
+    display: inline;
+    width: 50%;
+}
+.icono-footer{
+    width: 50px;
+    padding-right: 20px;
+}
+.mapa-sitio a{
+    color: white;
+    text-decoration: none;
+    padding-right: 35px;
+}
+.mapa-sitio{
+    padding-top: 30px;
+}
+
+.mapa-sitio a:hover{
+    color: aqua;
 }
