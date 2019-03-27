@@ -29,3 +29,20 @@ button:hover{
     width: 140px;
     height: 40px;
 }
+
+
+.sitios_interes{
+    
+    padding-left: 40%;
+    top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.sitios_interes a img{
+
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+   
+}
